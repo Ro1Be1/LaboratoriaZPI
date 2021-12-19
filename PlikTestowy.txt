@@ -1,1 +1,2 @@
 To jest plik testowy
+To jest zmieniony plik tekstowy
