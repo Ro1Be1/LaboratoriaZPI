@@ -1,2 +1,4 @@
 To jest plik testowy
 To jest zmieniony plik tekstowy
+
+Hej - dokladam swoja cegielke - HM
